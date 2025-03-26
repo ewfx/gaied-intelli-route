@@ -1,0 +1,15 @@
+Request Type,Sub Request Type
+Adjustment,null
+AU Transfer,null
+Closing Notice,Reallocation Fees
+Closing Notice,Amendment Fees
+Closing Notice,Reallocation Principal
+Commitment Change,Cashless Roll
+Commitment Change,Decrease
+Commitment Change,Increase
+Fee Payment,Ongoing Fee
+Fee Payment,Letter of Credit Fee
+Money Movement-Inbound,Principal
+Money Movement-Inbound,Interest
+Money Movement - Outbound,Timebound
+Money Movement - Outbound,Foreign Currency
